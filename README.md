@@ -120,20 +120,7 @@ Based on the findings:
 - Property quality should be included in valuation assessments, as the analysis indicates a strong association with selling prices.
 - Further analysis of market trends and additional property characteristics could provide a more comprehensive understanding of housing market performance.
 
-## 14. Conclusion
-
-This project explored residential property sales in Ames, Iowa, using Microsoft Excel to transform raw housing data into meaningful business insights.
-
-The analysis identified differences in average selling prices across neighbourhoods, property age categories and overall quality ratings.
-
-The findings demonstrated how data analysis can help identify patterns in property values and support more informed real estate assessments.
-
-Through this project, I gained practical experience in data cleaning, data preparation, PivotTables, PivotCharts, KPI development and interactive dashboard creation.
-
-Most importantly, the project strengthened my ability to interpret data, identify business-relevant patterns and communicate analytical findings through visual reporting.
-
-
-## 15. Skills Demonstrated
+## 14. Skills Demonstrated
 
 - Microsoft Excel
 - Data Cleaning
@@ -145,12 +132,14 @@ Most importantly, the project strengthened my ability to interpret data, identif
 - Dashboard Development
 - Analytical Thinking
 
-## 16. Conclusion
+## 15. Conclusion
 
-This project provided practical experience in transforming raw data into structured information and developing an interactive dashboard to support business analysis.
+This project explored residential property sales in Ames, Iowa, using Microsoft Excel to transform raw housing data into meaningful business insights.
 
-Through the use of Excel, I was able to organise housing data, develop key performance indicators, create PivotTables and visualise patterns across different property characteristics.
+The analysis identified differences in average selling prices across neighbourhoods, property age categories and overall quality ratings.
 
-The project strengthened my ability to approach data analytically, interpret information and communicate findings through visual reporting.
+The findings demonstrated how data analysis can help identify patterns in property values and support more informed real estate assessments.
 
-It also demonstrated the importance of data-driven decision-making in understanding real estate market performance.
+Through this project, I gained practical experience in data cleaning, data preparation, PivotTables, PivotCharts, KPI development and interactive dashboard creation.
+
+Most importantly, the project strengthened my ability to interpret data, identify business-relevant patterns and communicate analytical findings through visual reporting.
