@@ -72,7 +72,8 @@ These indicators provide a high-level overview of the residential property marke
 
 ## 7. Dashboard Preview
 
-![Real Estate Market Analysis Dashboard](images/dashboard.png)
+<img width="989" height="523" alt="Dashboard" src="https://github.com/user-attachments/assets/652815ed-fce8-4c22-a21d-935ddf077d81" />
+
 
 ## 8. Key Areas of Analysis
 
