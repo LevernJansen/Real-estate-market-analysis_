@@ -84,17 +84,56 @@ The analysis explores:
 - Property Quality: Investigating how overall property quality relates to market value.
 - Sales Trends: Examining residential property sales across the 2006–2010 reporting period.
 
-## 9. Conclusion
 
-This project provided practical experience in transforming raw data into structured information and developing an interactive dashboard to support business analysis.
+## 9. Key Findings & Business Insights
 
-Through the use of Excel, I was able to organise housing data, develop key performance indicators, create PivotTables and visualise patterns across different property characteristics.
+The analysis of 1,460 residential property sales in Ames, Iowa, revealed the following:
 
-The project strengthened my ability to approach data analytically, interpret information and communicate findings through visual reporting.
+### 10. Neighbourhood Performance
 
-It also demonstrated the importance of data-driven decision-making in understanding real estate market performance.
+NoRidge recorded the highest average selling price at approximately $335,295, followed by NridgHt at $316,271 and StoneBr at $310,499.
 
-## 10. Skills Demonstrated
+BrkSide recorded the lowest average selling price among the analysed neighbourhoods at approximately $124,834.
+
+**Business insight:** Residential property values differ considerably across neighbourhoods. Location is an important consideration when comparing property values and assessing potential investment opportunities.
+
+### 11. Property Age Analysis
+
+Newer properties recorded the highest average selling price at approximately $238,952, while Historic properties recorded the lowest at approximately $132,682.
+
+**Business insight:** The results suggest an association between property age and selling price. However, age alone does not determine property value, as other characteristics may also influence the selling price.
+
+### 12. Property Quality Analysis
+
+The analysis showed a general increase in average selling prices as overall property quality ratings increased.
+
+Properties with a quality rating of 10 recorded an average selling price of approximately $438,588, compared with approximately $50,150 for properties rated 1.
+
+**Business insight:** Higher-quality properties tend to achieve higher selling prices, highlighting the potential importance of construction quality and property condition in residential valuations.
+
+## 13. Business Recommendations
+
+Based on the findings:
+
+- Real estate investors should consider neighbourhood-level pricing differences when evaluating potential property investments.
+- Property age should be considered alongside condition, quality and location when assessing property values.
+- Property quality should be included in valuation assessments, as the analysis indicates a strong association with selling prices.
+- Further analysis of market trends and additional property characteristics could provide a more comprehensive understanding of housing market performance.
+
+## 14. Conclusion
+
+This project explored residential property sales in Ames, Iowa, using Microsoft Excel to transform raw housing data into meaningful business insights.
+
+The analysis identified differences in average selling prices across neighbourhoods, property age categories and overall quality ratings.
+
+The findings demonstrated how data analysis can help identify patterns in property values and support more informed real estate assessments.
+
+Through this project, I gained practical experience in data cleaning, data preparation, PivotTables, PivotCharts, KPI development and interactive dashboard creation.
+
+Most importantly, the project strengthened my ability to interpret data, identify business-relevant patterns and communicate analytical findings through visual reporting.
+
+
+## 15. Skills Demonstrated
 
 - Microsoft Excel
 - Data Cleaning
@@ -105,3 +144,13 @@ It also demonstrated the importance of data-driven decision-making in understand
 - Data Visualisation
 - Dashboard Development
 - Analytical Thinking
+
+## 16. Conclusion
+
+This project provided practical experience in transforming raw data into structured information and developing an interactive dashboard to support business analysis.
+
+Through the use of Excel, I was able to organise housing data, develop key performance indicators, create PivotTables and visualise patterns across different property characteristics.
+
+The project strengthened my ability to approach data analytically, interpret information and communicate findings through visual reporting.
+
+It also demonstrated the importance of data-driven decision-making in understanding real estate market performance.
